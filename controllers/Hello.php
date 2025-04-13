@@ -8,7 +8,7 @@ class Hello{
         echo 'Hello!';
     }
 
-    public function zepi($a){
+    public function test($a){
         echo "<pre>";
         print_r($a);
         echo "</pre>";
